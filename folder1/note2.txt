@@ -1,0 +1,25 @@
+meta tag--
+--help to manage the refresh
+--help to add key word for the SE0
+--used to add the description
+
+#fieldset --- provide the border to the form
+
+#meta tages --inportant
+---using meta tag can refersh the website automatically 
+---
+
+
+
+------------------CSS-----------
+type:
+highest pirority --->inline
+for internal vs external it depend upon where it is wrriten(depending upon order)
+
+##id > class --- while styling
+
+
+----selector-----
+->universal selector
+->group selector
+
