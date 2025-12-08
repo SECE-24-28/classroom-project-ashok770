@@ -1,0 +1,24 @@
+-------------------react-----------
+>npx
+>npm
+>vite
+>virtual DOM
+>Diffining algo
+>recolcilation algo
+
+-----------------------------
+To install react
+npx create-react-app my-app     
+to run react 
+cd project name
+npm start
+
+Deleted the node-module 
+
+npm i -> to install node model again
+---------------
+install react using Vite
+npm create vite myapp2
+
+to run 
+npm run dev
