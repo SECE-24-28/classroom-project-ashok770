@@ -1,0 +1,11 @@
+git init
+git add
+git commit -m""
+git push origin main
+git remote -v:just to check value stored in origin
+git log
+git branch
+git checkout
+git config --list:just to print all the environment variable
+git pull: just to pull the main branch code after merge
+

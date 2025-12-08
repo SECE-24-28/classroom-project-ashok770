@@ -1,0 +1,33 @@
+dns = domain name server
+isp = internet service provider
+website : software----static : dynamic
+
+ip address
+ipv4:range 0 t0t 255 with 4 digit
+ipv6: 8 digit (in ever digit combination of alphanumeric values)
+
+https: we use ssl- secure software layer and tls - transport layer security--more secure does not send the data in collection
+http: send the collection of data
+
+
+-------------pitter -
+-- code formatter
+
+Es lint
+--used to check the errors
+
+
+
+to check the origin value -- git remote -v
+
+
+
+-----------------------------------------------
+CREATE BRANCH
+git log ---> to check the commit
+git branch ->> to create branch
+git checkout branchname ->> to go to the branch
+git checkout commit id ->> will 
+
+
+
