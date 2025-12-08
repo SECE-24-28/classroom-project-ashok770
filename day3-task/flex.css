@@ -1,0 +1,27 @@
+.flexContainer {
+  /* border: 1px solid black; */
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  align-content: center;
+}
+.flexItem {
+  background-color: aqua;
+  border: 2px solid red;
+  font-size: 24px;
+  width: 80px;
+  color: red;
+  height: 60px;
+}
+/* Default order of every eleme */
+.flexItem:nth-child(1) {
+  order: 1;
+  align-self: flex-end;
+}
+.flexItem:nth-child(6) {
+  order: -1;
+  align-self: flex-end;
+}
+/* flex-flow:diresction and align-self */

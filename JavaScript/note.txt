@@ -1,0 +1,25 @@
+----javascript-day1----
+what type of languagae is javascript?
+which is supported by java tight coupling and lose coupling
+var - underfined erro
+let -refrence error
+const--type error
+
+------------functions----
+----5 type----
+1.Name functions
+2.fucntion expression
+3.arrow function(ES6)
+4and 5.callback function and 5.IIFE(immediately invoked Expression)
+
+
+#####
+only for the + we can get concatation
+==== --> check value and datatype
+in javascript
+compare ==== to we campr the address in there  value
+##for loop and for each use same arr for the computation
+##but it will not happen in case of map because it will use the differne t array
+
+
+***Filter:in case of truthy value

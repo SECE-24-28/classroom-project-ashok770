@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.flexItem {
+  border: 2px solid white;
+  width: 50px;
+  background-color: aliceblue;
+}
+
+header {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 100px;
+  border-bottom: 2px solid white;
+}
+.between {
+  text-align: top;
+}

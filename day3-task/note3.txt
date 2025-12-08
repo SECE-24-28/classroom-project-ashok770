@@ -1,0 +1,34 @@
+------------Flex Box---------
+in css
+#justify-content: to shift the container
+Flex-start
+space-around
+space-evenly -- to give equal space
+to move vertically--
+algin-items:center
+flex-end
+flex-start
+
+#gap
+gap:10px---space between the 
+flex-direction:row---row value
+
+
+
+##for main axis--use justify-content
+##cross axis ---use align-item
+
+
+----Flex-wrap--default --nowrow
+flex-wrap:wrap;
+new item come in the new row
+align-content only work for when we are using the wrap
+
+
+
+
+########Difference between the GRID and FLEX####
+in grid we use 1fr-frational 
+
+
+-----what are google standart size for different devices  
